@@ -49,6 +49,7 @@ namespace ChristmasTree
                 Console.WriteLine(); // Move to the next line
                 spaces--; // Decrease spaces for the next line
             }
+            Console.ReadLine();
         }
     }
 }
